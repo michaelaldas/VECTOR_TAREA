@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/TAREA_VECTOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/TAREA_VECTOR/cmake-build-debug/CMakeFiles/TAREA_VECTOR.dir
+C:/Users/ALDAS/CLionProjects/TAREA_VECTOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
